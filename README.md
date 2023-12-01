@@ -6,3 +6,4 @@ a=int(input("enter any number"))
 c=a+n
 <br>
 print(c)
+<br>
